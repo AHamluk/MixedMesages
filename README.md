@@ -4,4 +4,5 @@
 * Git
 * JavaScript
 * How to make a proper **README**
+
   *..and more!*
